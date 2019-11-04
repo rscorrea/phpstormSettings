@@ -1,4 +1,7 @@
 <keymap version="1" name="AtalhosPHPStormRafael" parent="Mac OS X 10.5+">
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
